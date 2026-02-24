@@ -1,0 +1,4 @@
+SOC ALERT REPORT
+
+185.220.101.1 → Attempts: 3 → Severity: HIGH
+45.33.32.156 → Attempts: 1 → Severity: LOW
