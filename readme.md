@@ -1,4 +1,4 @@
-# 🛡️ SOC Log Analyzer - Threat Intelligence
+# 🛡️ SOC Log Analyzer
 
 It is a Python-based tool designed to simulate real-world Security Operations Center (SOC) workflows by analyzing system logs and detecting suspicious activities. It focuses on identifying failed login attempts, extracting attacker IP addresses, and highlighting potential brute-force attacks.
 
